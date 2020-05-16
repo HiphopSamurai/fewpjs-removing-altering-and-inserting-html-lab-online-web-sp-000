@@ -2,4 +2,3 @@
 
 let elementMain = document.querySelector("main#main");
 elementMain.remove();
-
